@@ -1,0 +1,13 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    background-color: #ac8764; /* Цвет фона веб-страницы */
+}
+
+h1 {
+    color: #63402c; /* Цвет заголовка */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+
+h2 {
+    color: #8f664a; /* Цвет заголовка */
+}
